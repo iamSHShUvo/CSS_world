@@ -1,0 +1,36 @@
+.header{
+    height:200px;
+    font-size: large;
+    color: aliceblue;
+    
+    text-align: center;
+    background-image: url("../images/space1.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    
+}
+h3{
+    font-size: 40px;
+    text-decoration: overline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blog{
+    margin: 25px;
+    border: 10px solid rgba(50, 247, 214, 0.911);
+    box-shadow: 10px 10px 20px blueviolet;
+    /* display: inline-block; */
+}
+/* .second{ */
+    /* display: none; */
+    /* visibility: hidden; */
+/* } */
+.nihil{
+    border: 2px solid red;
+    /* display: block; */
+    /* margin:50px; */
+
+}
+li{
+    display: block;
+}
